@@ -28,3 +28,8 @@ GPA: 3.5
   - Implemented OAuth login process to support Social Login.
   - Added web analyticss
 
+## Skills
+
+- HTML
+- JavaSript
+- Css
