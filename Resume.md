@@ -4,3 +4,8 @@
 
 ## Work Experience
 
+## Skills
+
+- HTML
+- JavaSript
+- Css
