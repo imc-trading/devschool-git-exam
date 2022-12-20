@@ -1,3 +1,4 @@
+
 # Norman Normal Resume
 
 ## Education
